@@ -1,0 +1,6 @@
+[submodule "Agentic-Workflows"]
+	path = Agentic-Workflows
+	url = https://github.com/krillavilla/Agentic-Workflows.git
+[submodule "cd14525-agentic-workflows-classroom"]
+	path = cd14525-agentic-workflows-classroom
+	url = https://github.com/krillavilla/cd14525-agentic-workflows-classroom.git
