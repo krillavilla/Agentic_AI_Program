@@ -4,3 +4,6 @@
 [submodule "cd14525-agentic-workflows-classroom"]
 	path = cd14525-agentic-workflows-classroom
 	url = https://github.com/krillavilla/cd14525-agentic-workflows-classroom.git
+[submodule "AgentsVille-Trip-Planner"]
+	path = AgentsVille-Trip-Planner
+	url = https://github.com/krillavilla/AgentsVille-Trip-Planner.git
