@@ -7,3 +7,6 @@
 [submodule "AgentsVille-Trip-Planner"]
 	path = AgentsVille-Trip-Planner
 	url = https://github.com/krillavilla/AgentsVille-Trip-Planner.git
+[submodule "udaplay-ai-agent"]
+	path = udaplay-ai-agent
+	url = https://github.com/krillavilla/udaplay-ai-agent.git
