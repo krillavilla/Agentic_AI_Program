@@ -10,3 +10,6 @@
 [submodule "udaplay-ai-agent"]
 	path = udaplay-ai-agent
 	url = https://github.com/krillavilla/udaplay-ai-agent.git
+[submodule "Multi-Agent-PaperSolution"]
+	path = Multi-Agent-PaperSolution
+	url = https://github.com/krillavilla/Multi-Agent-PaperSolution.git
